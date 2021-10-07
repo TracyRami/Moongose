@@ -1,0 +1,15 @@
+{
+  "name": "tracy",
+  "version": "1.0.0",
+  "description": "tarea2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tracy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.9",
+    "save": "^2.4.0"
+  }
+}
